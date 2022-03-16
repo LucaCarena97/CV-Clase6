@@ -1,0 +1,17 @@
+body {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+
+header {background-color: rgb(221, 215, 215);
+text-align: center;}
+
+.titulo1 {font-weight: bold;
+background-color: rgb(196, 196, 196);
+color: rgb(38, 105, 131) ;}
+
+.articulo1 {color: rgb(38, 105, 131);
+background-color: rgb(221, 215, 215);}
+
+footer {background-color: rgb(3, 78, 107);
+text-align: center;}
+
+.pie {color: azure;
+font-size: 20px;}
